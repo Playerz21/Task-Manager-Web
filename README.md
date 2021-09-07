@@ -13,6 +13,7 @@ bootstrap
 etc.
 
 #To start the server
+
 1.Open Cmd
 2.cd to this file
 3.Type python manage.py runserver
