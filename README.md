@@ -15,7 +15,11 @@ etc.
 #To start the server
 
 1.Open Cmd
+
 2.cd to this file
+
 3.Type python manage.py runserver
+
 4. cd frontend
-5. npm run dev
+
+6. npm run dev
