@@ -14,13 +14,9 @@ This is a React(Javascript) and Django(Python) combined project created by me.
 etc.
 
 #To start the server
-
-1.Open Cmd
-
-2.cd to this file
-
-3.Type python manage.py runserver
-
-4.cd frontend
-
-5.npm run dev
+1. Open Cmd
+2. cd to this file
+3. Type python manage.py runserver
+4. Open a new CMD then follow step 2
+5. cd frontend
+6. npm run dev
