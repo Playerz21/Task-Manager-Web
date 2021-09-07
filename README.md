@@ -4,12 +4,13 @@
 This is a React(Javascript) and Django(Python) combined project created by me.
 
 #Requirements
-node modules in frontend folder
-react
-django
-djang-rest-frame-work
-babel
-bootstrap
+
+1. node modules in frontend folder
+2. react
+3. django
+4. djang-rest-frame-work
+5. babel
+6. bootstrap
 etc.
 
 #To start the server
