@@ -20,6 +20,6 @@ etc.
 
 3.Type python manage.py runserver
 
-4. cd frontend
+4.cd frontend
 
-6. npm run dev
+5.npm run dev
