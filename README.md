@@ -21,3 +21,5 @@ etc.
 4. Open a new CMD then follow step 2
 5. cd frontend
 6. npm run dev
+7. https://www.youtube.com/watch?v=JD-age0BPVo
+8. https://www.youtube.com/watch?v=uhSmgR1hEwg
