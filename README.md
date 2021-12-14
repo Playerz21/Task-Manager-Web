@@ -20,7 +20,8 @@ etc.
 3. Type python manage.py runserver
 4. Open a new CMD then follow step 2
 5. cd frontend
-6. npm run dev
+6. npm install
+7. npm run dev
 
 #Links I used to setup the project
 1. https://www.youtube.com/watch?v=JD-age0BPVo
