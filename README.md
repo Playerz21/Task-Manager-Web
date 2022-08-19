@@ -4,7 +4,7 @@
 
 This is a React(Javascript) and Django(Python) combined project created by me.
 
-#Requirements
+Requirements
 
 1. node modules in frontend folder
 2. react
